@@ -1,1 +1,5 @@
-# Freiburg_GoogleHashCode17
+Contributors:
+Max Roth
+Misgana Negassi
+Moritz Freidank
+Moritz Rocholl
