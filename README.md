@@ -1,5 +1,5 @@
-Contributors:
-Max Roth
-Misgana Negassi
-Moritz Freidank
-Moritz Rocholl
+# Contributors:
+* Max Roth
+* Misgana Negassi
+* Moritz Freidank
+* Moritz Rocholl
